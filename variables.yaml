@@ -4,4 +4,4 @@ metadata:
   namespace: airflow
   name: airflow-variables
 data:
-  S3_BUCKET: "airflow-bucket"
+  AIRFLOW_VAR_S3_BUCKET: "airflow-bucket"
